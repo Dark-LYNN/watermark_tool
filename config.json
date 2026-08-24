@@ -1,0 +1,21 @@
+{
+    "watermark_text": "example",
+    "position": "repetitive-45",
+    "font_path": "fonts/Concert_One/ConcertOne-Regular.ttf",
+    "font_size_ratio": 0.05,
+    "spacing": 0.1,
+    "input_folder": "/mnt/codes/Codes/@Github/@lynnux-useless-codes/watermark_tool/images",
+    "output_folder": "/mnt/codes/Codes/@Github/@lynnux-useless-codes/watermark_tool/Output",
+    "transparency": 85,
+    "text_color": [
+        255,
+        255,
+        255
+    ],
+    "bg_color": [
+        0,
+        0,
+        0,
+        0
+    ]
+}
